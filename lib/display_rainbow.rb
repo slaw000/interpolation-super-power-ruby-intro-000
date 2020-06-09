@@ -1,11 +1,10 @@
 # Write your #display_rainbow method here
-colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
-R = red
-O = orange
-Y = yellow
-G = green
-B = blue
-I = indigo
-V = violet
+colors = ['Red', 'Orange', 'Yellow', 'Green', 'Blue', 'Indigo', 'Violet'
 def #display_rainbow(colors)
-  puts "R", "O", "Y", "G", "B", "I", "V"
+  puts #{color[0]}
+  puts #{color[1]}
+  puts #{color[2]}
+  puts #{color[3]}
+  puts #{color[4]}
+  puts #{color[5]}
+  puts #{color[6]}
